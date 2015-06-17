@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VK Music Sync Donate</string>
+    <string name="donate">Пожертвовать</string>
+    <string name="donation">Donation</string>
+    <string name="donation_info">Нажав на кнопку \"Пожертвовать\", появится диалог, в котором вам будет предложено отправить платное смс, стоимость которого будет видна. После успешной отправки смс, через некоторое время (может занять даже несколько часов!) на ваш телефон прийдёт сообщение о завершении платежа. После того, как вы перезапустите основную версию приложения (VK Music Sync), из него исчезнет реклама, а данная версия приложения может быть свободно удалена.</string>
+    <string name="donation_confirm">Вы уверены?</string>
+    <string name="payment_failed">Ошибка. Не удалось провести оплату</string>
+    <string name="payment_successful">Платёж прошёл успешно!</string>
+    <string name="waiting_for_payment_result">Ожидание результата оплаты…</string>
+    <string name="ad_disabling_failed">Ошибка. Не удалось отключить рекламу</string>
+    <string name="please_enable_internet">Пожалуйста включите интернет</string>
+	<string name="loading">Загрузка…</string>
+    <string name="failed_to_prepare_payment">Ошибка. Не удалось подготовиться к оплате</string>
+	
+</resources>

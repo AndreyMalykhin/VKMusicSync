@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/sync"
+        android:icon="@drawable/ic_menu_selector_sync"
+        android:showAsAction="ifRoom"
+        android:title="@string/synchronize"/>
+    <item
+        android:id="@+id/toggle_check_all"
+        android:checkable="true"
+        android:checked="false"
+        android:icon="@drawable/ic_menu_selector_check_all"
+        android:showAsAction="ifRoom"
+        android:title="@string/check_all_tracks"/>
+    <item
+        android:id="@+id/albums"
+        android:icon="@drawable/ic_menu_selector_albums"
+        android:showAsAction="ifRoom"
+        android:title="@string/albums"/>
+    <item
+        android:id="@+id/friends_and_groups"
+        android:icon="@drawable/ic_menu_selector_friends_and_groups"
+        android:showAsAction="ifRoom"
+        android:title="@string/music_of_friends_and_groups"/>
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_menu_selector_search"
+        android:showAsAction="ifRoom"
+        android:title="@string/search_tracks"/>
+    <item
+        android:id="@+id/preferences"
+        android:icon="@drawable/ic_menu_preferences"
+        android:showAsAction="ifRoom"
+        android:title="@string/preferences"/>
+
+</menu>

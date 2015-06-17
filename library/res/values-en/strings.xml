@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VK Music Sync</string>
+    <string name="account">Account</string>
+    <string name="preferences">Preferences</string>
+    <string name="directory_for_music">Music directory</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="please_enable_internet">Please enable internet</string>
+    <string name="please_select_tracks_to_sync">Please select tracks for synchronization</string>
+    <string name="synchronizing">Synchronization…</string>
+    <string name="no_tracks">No tracks</string>
+    <string name="searching_differences">Searching differences…</string>
+    <string name="play">Play</string>
+    <string name="music">Music</string>
+    <string name="stop_syncronization">Stop synchronization</string>
+    <string name="check_all_tracks">Select all tracks</string>
+    <string name="uncheck_all_tracks">Unselect all tracks</string>
+    <string name="write_to_developer">Write to author</string>
+    <string name="send_email_via">Send e-mail via…</string>
+    <string name="loading">Loading…</string>
+    <string name="log_errors">Log errors</string>
+    <string name="helps_to_detect_and_fix_problems">Helps developer to find and fix bugs</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="directory_selection">Music directory selection</string>
+    <string name="search_tracks">Search tracks</string>
+    <string name="clear_search_results">Clear results</string>
+    <string name="no_tracks_found">No tracks found</string>
+    <string name="stopping">Stopping…</string>
+    <string name="preparing">Preparing…</string>
+    <string name="synchronization_done">Synchronization done</string>
+    <string name="stopping_sync_because_of_too_many_errors">Too many errors. Perhaps problem in the internet connection. Stopping synchronization…</string>
+    <string name="choosed_directory_is_not_writable_please_choose_another">Selected directory is not writable. Please select another</string>
+    <string name="sound_notification">Sound notification</string>
+    <string name="when_synchronization_done">When synchronization done</string>
+    <string name="friends_and_groups">Friends and groups</string>
+    <string name="me">Me</string>
+    <string name="music_of_friends_and_groups">Music of friends and groups</string>
+    <string name="no_friends_and_groups">No friends and groups</string>
+    <string name="sync_in_this_direction_is_possible_only_for_your_music">Synchronization in this direction is possible only for your music</string>
+    <string name="delete">Delete</string>
+    <string name="deleting">Deleting…</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_track_msg">The track will be deleted from your device and from VK, continue deletion?</string>
+    <string name="delete_track_title">Track deletion</string>
+    <string name="empty_local_track_list">To synchronize in this direction, put tracks in music directory, which is set in settings</string>
+    <string name="donate">Donate</string>
+    <string name="albums">Albums</string>
+    <string name="no_albums">No albums</string>
+    <string name="all_tracks">All tracks</string>
+    <string name="ads_disabled">Ads disabled</string>
+    <string name="copy_track_to_logged_user">Add to me</string>
+    <string name="track_copied">Track successfully added</string>
+    <string name="copying">Adding…</string>
+    
+    <string name="error_while_communicating_with_vkontake">Error. Can\'t connect to VK. Please try again later</string>
+    <string name="error_while_syncing_track">Error. Failed to sync track %1$s</string>
+    <string name="error_while_syncing_album">Error. Failed to sync album %1$s</string>
+    <string name="error_while_deleting_track">Error. Failed to delete track</string>
+    <string name="error_while_creating_directory_for_music">Error. Failed to create music directory</string>
+    <string name="error_while_trying_to_change_music_dir">Error. Failed to change music directory</string>
+    <string name="error_while_saving_settings">Error. Failed to save preferences</string>
+    <string name="error_while_saving_tag">Error. Failed to write tags for track %1$s</string>
+    <string name="error_while_copying_track_to_logged_user">Error. Failed to add track</string>
+	
+</resources>

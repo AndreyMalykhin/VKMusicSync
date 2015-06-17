@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VK Music Sync</string>
+    <string name="account">Аккаунт</string>
+    <string name="preferences">Настройки</string>
+    <string name="directory_for_music">Папка для музыки</string>
+    <string name="synchronize">Синхронизировать</string>
+    <string name="please_enable_internet">Пожалуйста включите интернет</string>
+    <string name="please_select_tracks_to_sync">Пожалуйста выберите трэки для синхронизации</string>
+    <string name="synchronizing">Синхронизация…</string>
+    <string name="no_tracks">Нет трэков</string>
+    <string name="searching_differences">Поиск различий…</string>
+    <string name="play">Воспроизвести</string>
+    <string name="music">Музыка</string>
+    <string name="stop_syncronization">Остановить синхронизацию</string>
+    <string name="check_all_tracks">Выбрать все трэки</string>
+    <string name="uncheck_all_tracks">Отменить выделение</string>
+    <string name="write_to_developer">Написать автору</string>
+    <string name="send_email_via">Послать e-mail через…</string>
+    <string name="loading">Загрузка…</string>
+    <string name="log_errors">Логировать ошибки</string>
+    <string name="helps_to_detect_and_fix_problems">Помогает разработчику обнаруживать и устранять проблемы</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="directory_selection">Выбор папки для музыки</string>
+    <string name="search_tracks">Поиск трэков</string>
+    <string name="clear_search_results">Очистить результаты</string>
+    <string name="no_tracks_found">Поиск не дал результатов</string>
+    <string name="stopping">Остановка…</string>
+    <string name="preparing">Подготовка…</string>
+    <string name="synchronization_done">Синхронизация завершена</string>
+    <string name="sound_notification">Звуковое оповещение</string>
+    <string name="when_synchronization_done">По окончанию синхронизации</string>
+    <string name="friends_and_groups">Друзья и сообщества</string>
+    <string name="me">Я</string>
+    <string name="music_of_friends_and_groups">Музыка друзей и сообществ</string>
+    <string name="no_friends_and_groups">Нет друзей и сообществ</string>
+    <string name="sync_in_this_direction_is_possible_only_for_your_music">Синхронизация в этом направлении возможна только для вашей музыки</string>
+    <string name="delete">Удалить</string>
+    <string name="deleting">Удаление…</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="delete_track_msg">Трэк будет удалён с вашего устройства и с Вконтакте, продолжить удаление?</string>
+    <string name="delete_track_title">Удаление трэка</string>
+    <string name="empty_local_track_list">Для синхронизации в этом направлении, поместите трэки в папку для музыки, которая установлена в настройках</string>
+    <string name="donate">Купить автору пива</string>
+    <string name="albums">Альбомы</string>
+    <string name="no_albums">Нет альбомов</string>
+    <string name="all_tracks">Все трэки</string>
+    <string name="ads_disabled">Реклама выключена</string>
+    <string name="copy_track_to_logged_user">Добавить ко мне</string>
+    <string name="track_copied">Трэк успешно добавлен</string>
+    <string name="copying">Добавление…</string>
+    
+    <string name="stopping_sync_because_of_too_many_errors">Слишком много ошибок. Возможно проблема в интернет-соединении. Остановка синхронизации…</string>
+    <string name="choosed_directory_is_not_writable_please_choose_another">Выбранная папка недоступна для записи. Пожалуйста выберите другую</string>
+    <string name="error_while_communicating_with_vkontake">Ошибка. Не удалось соединиться с Вконтакте. Попробуйте позже</string>
+    <string name="error_while_syncing_track">Ошибка. Не удалось синхронизировать трэк %1$s</string>
+    <string name="error_while_syncing_album">Ошибка. Не удалось синхронизировать альбом %1$s</string>
+    <string name="error_while_deleting_track">Ошибка. Не удалось удалить трэк</string>
+    <string name="error_while_creating_directory_for_music">Ошибка. Не удалось создать папку для музыки</string>
+    <string name="error_while_trying_to_change_music_dir">Ошибка. Не удалось сменить папку для музыки</string>
+    <string name="error_while_saving_settings">Ошибка. Не удалось сохранить настройки</string>
+    <string name="error_while_saving_tag">Ошибка. Не удалось прописать тэг для трэка %1$s</string>
+    <string name="error_while_copying_track_to_logged_user">Ошибка. Не удалось добавить трэк</string>
+    
+</resources>

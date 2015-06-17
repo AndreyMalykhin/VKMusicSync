@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme" parent="@style/Theme.Sherlock.Light">
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+
+    <style name="Theme.Preferences" parent="Theme">
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="Theme.Auth" parent="@style/Theme.Sherlock.Light.NoActionBar"></style>
+
+</resources>

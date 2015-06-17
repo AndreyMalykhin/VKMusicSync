@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#3B5C7E</color>
+    <color name="background">#FFF</color>
+    <color name="text">@color/main</color>
+    <color name="button_background_start">@color/main</color>
+    <color name="button_background_end">#6E8FAF</color>
+    <color name="button_disabled_background">#CCC</color>
+    <color name="button_stroke">@color/main</color>
+    <color name="button_text">#FFF</color>
+</resources>

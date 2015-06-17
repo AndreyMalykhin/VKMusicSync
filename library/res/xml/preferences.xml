@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="account"
+        android:title="@string/account" />
+    <Preference
+        android:key="music_dir"
+        android:title="@string/directory_for_music" />
+
+    <RingtonePreference
+        android:key="sync_done_sound_uri"
+        android:ringtoneType="notification"
+        android:showDefault="true"
+        android:showSilent="true"
+        android:summary="@string/when_synchronization_done"
+        android:title="@string/sound_notification" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="log_errors"
+        android:summary="@string/helps_to_detect_and_fix_problems"
+        android:title="@string/log_errors" />
+
+    <Preference
+        android:key="write_to_developer"
+        android:title="@string/write_to_developer" />
+
+</PreferenceScreen>
