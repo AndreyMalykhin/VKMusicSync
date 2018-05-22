@@ -18,3 +18,4 @@
 - [Android](https://developer.android.com/)
 - [Java](https://www.java.com/en/)
 - [Apache Commons](https://commons.apache.org/)
+- [VK](https://vk.com/dev)
