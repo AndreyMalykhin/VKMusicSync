@@ -13,3 +13,8 @@
 
 ### Tips
 - It is not necessary to hold the application in foreground while synchronization is running.
+
+### Credits
+- [Android](https://developer.android.com/)
+- [Java](https://www.java.com/en/)
+- [Apache Commons](https://commons.apache.org/)
